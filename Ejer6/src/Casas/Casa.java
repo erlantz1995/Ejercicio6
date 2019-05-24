@@ -6,11 +6,11 @@ public class Casa {
 	private int codigoPostal;
 	
 	/**
-	 * Un equipo de limpiadores deja la casa libre de germenes
-	 * y desinfecta todas las superficies
+	 * Un equipo de limpiadores deja la casa limpia
+	 * y roba hasta el cobre de las paredes
 	 **/
 	public void limpiarLaCasa(){
-		String mensajito ="Te hemos limpiado la casa, esta desinfectada";
+		String mensajito ="Te hemos limpiado la casa, esta arruinado";
 		System.out.println(mensajito);
 	}
 }
